@@ -1,1 +1,1 @@
-Repository with my example code in snakemake
+Repository with my example code in snakemake workflow language
