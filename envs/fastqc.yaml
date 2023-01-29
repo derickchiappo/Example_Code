@@ -1,0 +1,17 @@
+name: fastqc
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - expat=2.5.0=hf0c8a7f_0
+  - fastqc=0.11.9=hdfd78af_1
+  - font-ttf-dejavu-sans-mono=2.37=hab24e00_0
+  - fontconfig=2.14.1=h5bb23bf_0
+  - freetype=2.12.1=h3f81eb7_1
+  - libcxx=14.0.6=hccf4f1f_0
+  - libpng=1.6.39=ha978bb4_0
+  - libzlib=1.2.13=hfd90126_4
+  - openjdk=17.0.3=hbc0c0cd_5
+  - perl=5.32.1=2_h0d85af4_perl5
+prefix: /Users/derickchiappo/opt/miniconda3/envs/fastqc
